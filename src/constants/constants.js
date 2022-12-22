@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: '/images/1.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Shortest Distance using graph algo',
+    description: "created a project to find the shortest path between source an destination",
+    image: '/images/graph.jpg',
+    tags: ['VIS', 'Javascript', 'CSS', 'HTML'],
+    source: 'https://github.com/Mudit-jain77/Graph-Project/',
+    visit: 'https://shortestpathgraph.netlify.app/',
     id: 0,
   },
   {
